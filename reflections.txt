@@ -1,0 +1,29 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+What new skills have you learned?
+    Certain html5 tags to describe its meaning to the browser and the development. Which means we use them to give semantic to our projects.
+
+    tags like:
+        • <main>
+        • <header>
+        • <article>
+        • <strike>
+        • <sup>
+        • <cite>
+
+What has been easy?
+    Understanding the definition of tags and the structure of a simple html page.
+
+What has been difficult?
+    At this point I've been enjoying the videos and documentation and I haven't found troubles yet.
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+    Thinking in the tree concept whenever I'm building a webpage has helped me to have a plan based on the structure of the full content. Which I think will be useful when the projects get bigger, this way I'll be able to think before taking a wrong path.
